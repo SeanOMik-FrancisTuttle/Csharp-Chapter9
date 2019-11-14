@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\obj\Debug\netcoreapp3.0\CreateStudents2.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\obj\Debug\netcoreapp3.0\CreateStudents2.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\obj\Debug\netcoreapp3.0\CreateStudents2.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\bin\Debug\netcoreapp3.0\CreateStudents2.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\obj\Debug\netcoreapp3.0\CreateStudents2.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\CreateStudents2\CreateStudents2\obj\Debug\netcoreapp3.0\CreateStudents2.pdb

@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\bin\Debug\netcoreapp3.0\TilingDemo.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\obj\Debug\netcoreapp3.0\TilingDemo.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\obj\Debug\netcoreapp3.0\TilingDemo.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\obj\Debug\netcoreapp3.0\TilingDemo.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\obj\Debug\netcoreapp3.0\TilingDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TilingDemo\TilingDemo\obj\Debug\netcoreapp3.0\TilingDemo.pdb

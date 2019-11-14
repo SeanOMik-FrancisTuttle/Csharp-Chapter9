@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\bin\Debug\netcoreapp3.0\TaxPayerDemo.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\obj\Debug\netcoreapp3.0\TaxPayerDemo.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\obj\Debug\netcoreapp3.0\TaxPayerDemo.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\obj\Debug\netcoreapp3.0\TaxPayerDemo.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\obj\Debug\netcoreapp3.0\TaxPayerDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TaxPayerDemo\TaxPayerDemo\obj\Debug\netcoreapp3.0\TaxPayerDemo.pdb

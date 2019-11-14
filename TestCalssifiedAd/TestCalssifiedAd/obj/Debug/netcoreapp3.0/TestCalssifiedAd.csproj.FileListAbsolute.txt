@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\bin\Debug\netcoreapp3.0\TestCalssifiedAd.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\obj\Debug\netcoreapp3.0\TestCalssifiedAd.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\obj\Debug\netcoreapp3.0\TestCalssifiedAd.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\obj\Debug\netcoreapp3.0\TestCalssifiedAd.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter9\TestCalssifiedAd\TestCalssifiedAd\obj\Debug\netcoreapp3.0\TestCalssifiedAd.pdb
